@@ -8,8 +8,9 @@ const { exec } = require('child_process');
 const app = express();
 app.use(cors());
 app.use(express.static(__dirname));
-app.use('/music', express.static(path.join(__dirname, 'music')));
+// Modify this line to explicitly set the covers route
 app.use('/covers', express.static(path.join(__dirname, 'covers')));
+app.use('/music', express.static(path.join(__dirname, 'music')));
 
 // Modify this part of your server.js file
 app.get('/get-music', async (req, res) => {
@@ -68,6 +69,7 @@ app.get('/get-music', async (req, res) => {
                     title: metadata.common.title || filename.replace('.mp3', ''),
                     artist: metadata.common.artist || 'Unknown Artist',
                     album: albumName,
+                    // Ensure the cover path starts with a forward slash
                     cover: coverFile ? `/covers/${coverFile}` : null
                 };
             } catch (err) {
