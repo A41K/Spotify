@@ -1,0 +1,422 @@
+[
+  {
+    "filename": "Alright.mp3",
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Backseat Freestyle.mp3",
+    "title": "Backseat Freestyle",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "Be Yourself.mp3",
+    "title": "Be Yourself",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Bitch, Don’t Kill My Vibe.mp3",
+    "title": "Bitch, Don’t Kill My Vibe",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "BLOOD.mp3",
+    "title": "BLOOD.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "Close To You.mp3",
+    "title": "Close To You",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Complexion (A Zulu Love).mp3",
+    "title": "Complexion (A Zulu Love)",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Compton.mp3",
+    "title": "Compton",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "DNA.mp3",
+    "title": "DNA.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "DUCKWORTH.mp3",
+    "title": "DUCKWORTH.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "ELEMENT.mp3",
+    "title": "ELEMENT.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "Facebook Story.mp3",
+    "title": "Facebook Story",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Family Ties.mp3",
+    "title": "family ties (with Kendrick Lamar)",
+    "artist": "Baby Keem",
+    "album": "family ties (with Kendrick Lamar)",
+    "cover": "/covers/family ties (with Kendrick Lamar) by Baby Keem, Kendrick Lamar.jpg"
+  },
+  {
+    "filename": "FEAR.mp3",
+    "title": "FEAR.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "FEEL.mp3",
+    "title": "FEEL.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "For Free (Interlude).mp3",
+    "title": "For Free? - Interlude",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "For Sale (Interlude).mp3",
+    "title": "For Sale? - Interlude",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Futura Free.mp3",
+    "title": "Futura Free",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "GOD.mp3",
+    "title": "GOD.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "Godspeed.mp3",
+    "title": "Godspeed",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Good Guy.mp3",
+    "title": "Good Guy",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "good kid.mp3",
+    "title": "good kid",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "Hood Politics.mp3",
+    "title": "Hood Politics",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "How Much A Dollar Cost.mp3",
+    "title": "How Much A Dollar Cost",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "HUMBLE.mp3",
+    "title": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "i.mp3",
+    "title": "i",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Institutionalized.mp3",
+    "title": "Institutionalized",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Ivy.mp3",
+    "title": "Ivy",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "King Kunta.mp3",
+    "title": "King Kunta",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "LOVE.mp3",
+    "title": "LOVE. FEAT. ZACARI.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "LOYALTY.mp3",
+    "title": "LOYALTY. FEAT. RIHANNA.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "LUST.mp3",
+    "title": "LUST.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "m.A.A.d city.mp3",
+    "title": "m.A.A.d city",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "Momma.mp3",
+    "title": "Momma",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Money Trees.mp3",
+    "title": "Money Trees",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "Mortal Man.mp3",
+    "title": "Mortal Man",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Nights.mp3",
+    "title": "Nights",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Nikes.mp3",
+    "title": "Nikes",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Pink + White.mp3",
+    "title": "Pink + White",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Poetic Justice.mp3",
+    "title": "Poetic Justice",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "Pretty Sweet.mp3",
+    "title": "Pretty Sweet",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "PRIDE.mp3",
+    "title": "PRIDE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "Real.mp3",
+    "title": "Real",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "SAMIDOT.mp3",
+    "title": "Sing About Me, I'm Dying Of Thirst",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "Seigfried.mp3",
+    "title": "Seigfried",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Self Control.mp3",
+    "title": "Self Control",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Sherane.mp3",
+    "title": "Sherane a.k.a Master Splinter’s Daughter",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "Skyline To.mp3",
+    "title": "Skyline To",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Solo (Reprise).mp3",
+    "title": "Solo (Reprise)",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Solo.mp3",
+    "title": "Solo",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "Swimming Pools (Drank).mp3",
+    "title": "Swimming Pools (Drank) - Extended Version",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "The Art of Peer Pressure.mp3",
+    "title": "The Art of Peer Pressure",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "cover": "/covers/good kid, m.A.A.d city.jpg"
+  },
+  {
+    "filename": "The Blacker The Berry.mp3",
+    "title": "The Blacker The Berry",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "These Walls.mp3",
+    "title": "These Walls",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "u.mp3",
+    "title": "u",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "Wesley's Theory.mp3",
+    "title": "Wesley's Theory",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  },
+  {
+    "filename": "White Ferrari.mp3",
+    "title": "White Ferrari",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "cover": "/covers/Blonde.jpg"
+  },
+  {
+    "filename": "XXX.mp3",
+    "title": "XXX. FEAT. U2.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "YAH.mp3",
+    "title": "YAH.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover": "/covers/DAMN..jpg"
+  },
+  {
+    "filename": "You Ain't Gotta Lie (Momma Said).mp3",
+    "title": "You Ain't Gotta Lie (Momma Said)",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "cover": "/covers/ToPimpAButterfly.jpg"
+  }
+]
