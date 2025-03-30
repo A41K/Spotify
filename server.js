@@ -27,6 +27,10 @@ app.get('/get-music', async (req, res) => {
 
         const musicFiles = files.filter(file => file.endsWith('.mp3'));
         
+        // Add this near the top of your file, after const app = express();
+        const BASE_URL = 'http://localhost:3000';
+        
+        // In your /get-music endpoint, modify the cover path to include the full URL
         const musicData = await Promise.all(musicFiles.map(async (filename) => {
             const filePath = path.join(musicDir, filename);
             try {
@@ -69,8 +73,8 @@ app.get('/get-music', async (req, res) => {
                     title: metadata.common.title || filename.replace('.mp3', ''),
                     artist: metadata.common.artist || 'Unknown Artist',
                     album: albumName,
-                    // Ensure the cover path starts with a forward slash
-                    cover: coverFile ? `/covers/${coverFile}` : null
+                    // Include the full URL for cover paths
+                    cover: coverFile ? `${BASE_URL}/covers/${coverFile}` : null
                 };
             } catch (err) {
                 console.error(`Error processing ${filename}:`, err);
