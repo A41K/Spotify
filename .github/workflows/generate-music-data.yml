@@ -1,0 +1,32 @@
+name: Generate Music Data
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Generate music data
+      run: node server.js
+      
+    - name: Commit music-data.json
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add music/music-data.json
+        git commit -m "Update music-data.json" || echo "No changes to commit"
+        git push

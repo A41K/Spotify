@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <!-- Remove or update the base tag -->
+    <!-- <base href="http://localhost:3000/"> -->
+</head>
+<body>
+    <div class="music-player">
+        <div class="now-playing">
+            <img src="" alt="Album Art" class="album-art">
+            <div class="track-info">
+                <h2 id="title"></h2>
+                <p id="artist"></p>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="progress-container">
+                <span id="currentTime">0:00</span>
+                <div class="progress-bar">
+                    <div class="progress" id="progress"></div>
+                </div>
+                <span id="duration">0:00</span>
+            </div>
+            
+            <div class="buttons">
+                <button id="shuffle" class="control-btn"><i class="fas fa-random"></i></button>
+                <button id="prev" class="control-btn"><i class="fas fa-backward"></i></button>
+                <button id="play" class="control-btn play-btn"><i class="fas fa-play"></i></button>
+                <button id="next" class="control-btn"><i class="fas fa-forward"></i></button>
+                <button id="repeat" class="control-btn"><i class="fas fa-redo"></i></button>
+                <div class="volume-control">
+                    <i class="fas fa-volume-up"></i>
+                    <input type="range" id="volume" min="0" max="100" value="100">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="playlist" id="playlist">
+        <!-- Songs will be dynamically added here -->
+    </div>
+
+    <script src="player.js"></script>
+</body>
+</html>
