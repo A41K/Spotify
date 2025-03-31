@@ -8,7 +8,6 @@ const { exec } = require('child_process');
 const app = express();
 app.use(cors());
 app.use(express.static(__dirname));
-// Modify this line to explicitly set the covers route
 app.use('/covers', express.static(path.join(__dirname, 'covers')));
 app.use('/music', express.static(path.join(__dirname, 'music')));
 
@@ -73,8 +72,8 @@ app.get('/get-music', async (req, res) => {
                     title: metadata.common.title || filename.replace('.mp3', ''),
                     artist: metadata.common.artist || 'Unknown Artist',
                     album: albumName,
-                    // Include the full URL for cover paths
-                    cover: coverFile ? `${BASE_URL}/covers/${coverFile}` : null
+                    // Use relative path instead of absolute URL
+                    cover: coverFile ? `/covers/${encodeURIComponent(coverFile)}` : null
                 };
             } catch (err) {
                 console.error(`Error processing ${filename}:`, err);
