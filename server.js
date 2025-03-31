@@ -2,7 +2,7 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const cors = require('cors');
-const mm = require('music-metadata/lib/index');
+const mm = require('music-metadata');
 const { exec } = require('child_process');
 
 const app = express();
